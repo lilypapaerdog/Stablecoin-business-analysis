@@ -1,13 +1,13 @@
 # Stablecoin-business-analysis
 Stablecoin Business Analysis
 
-About This Project
+# About This Project
 
 This project explores the business models, financial economics, and strategic positioning of major players in the stablecoin ecosystem, with a focus on Circle, Tether, and Coinbase.
 
 The goal is to understand how stablecoins create economic value, generate revenue, and reshape the global financial system.
 
-Key Research Areas
+# Key Research Areas
 
 Business Models — How do Circle, Tether, and Coinbase generate revenue?
 
@@ -19,7 +19,7 @@ Risks & Regulation — How do interest rates, regulatory developments, and marke
 
 Future Opportunities — How could stablecoins, DeFi, and asset tokenization transform financial services?
 
-About Me
+# About Me
 
 I am a finance professional with 15 years of experience across FP&A, supply chain finance, procurement finance, and business partnering.
 
@@ -27,6 +27,6 @@ I am passionate about emerging technologies, particularly AI, blockchain, digita
 
 Through this project, I aim to combine my financial expertise with a deeper understanding of the digital asset ecosystem.
 
-Project Status
+# Project Status
 
 Work in progress — part of my 12-week AI × Web3 learning journey.
